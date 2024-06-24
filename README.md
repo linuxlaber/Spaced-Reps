@@ -1,3 +1,4 @@
+I friggin cooked this shi. Why ya'll letting me cook?
 Download the folder as zip file then extract anywhere you want then open Spaced Reps.exe
 
 
