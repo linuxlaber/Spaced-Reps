@@ -1,4 +1,4 @@
-Why ya'll letting me cook huh? Like a madafading chef!
+Why ya'll letting me cook huh? Like a madafaming chef!
 Download the folder as zip file then extract anywhere you want then open Spaced Reps.exe
 
 
