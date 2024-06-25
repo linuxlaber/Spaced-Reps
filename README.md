@@ -7,6 +7,8 @@ Shown below is the design documentation of the app.
 
 I would like to talk about my struggles in developing the code for option 4 which is Add/Check solution. I have 3 ideas I proposed, 2 didn't work, and only 1 made it out. That 1 idea however is the reason why this project has the feature to add and check solutions.
 
+Note that the increment for the interval will always be +3 days. You can't customize it.
+
 Idea 1:
 
 Idea 2:
