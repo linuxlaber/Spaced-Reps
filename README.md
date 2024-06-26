@@ -12,7 +12,8 @@ Download the folder as zip file then extract anywhere you want then open Spaced 
 Application Design:
 
 
-![Spaced Reps](https://github.com/linuxlaber/Spaced-Reps/assets/170599771/d73e85ae-2868-47cf-abe5-325ed9990ecf)
+![Spaced repetitions drawio](https://github.com/linuxlaber/Spaced-Reps/assets/170599771/c4712be9-2d81-4cb8-a2d0-341ebf6a0539)
+
 
 
 
