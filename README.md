@@ -1,6 +1,3 @@
-Check my links:
-
-Webpage: [https://docs.google.com/document/d/1trYpeUBkiDJ2D5Ma13q_LrILwKvpGxbm_C8GdJx5yXo/edit?usp=sharing](url)
 
 
 
