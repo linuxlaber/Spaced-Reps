@@ -20,7 +20,7 @@ Tutorial on how to use:
 
 
 
-Documentation on how to use:
+Documentation of the App Development:
 [https://docs.google.com/document/d/1trYpeUBkiDJ2D5Ma13q_LrILwKvpGxbm_C8GdJx5yXo/edit?usp=sharing](url)
 
 
