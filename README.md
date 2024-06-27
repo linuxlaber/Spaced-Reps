@@ -4,6 +4,8 @@
 Installation:
 Download the folder as zip file then extract anywhere you want then open Spaced Reps.exe. Note that you must open the .exe file on the specified folder.
 
+I will soon make the documentation as clear as I could.
+
 
 
 Application Design:
